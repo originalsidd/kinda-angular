@@ -1,6 +1,6 @@
 {
-  "name": "firstapp",
-  "short_name": "firstapp",
+  "name": "TicTacToes",
+  "short_name": "TicTacToes",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
